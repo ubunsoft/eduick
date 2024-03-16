@@ -1,2 +1,3 @@
 # Eduick
-Eduick is a online learning platform for IT and Computer Science students.
+
+**_Eduick_** is an online learning platform for Computer Science students.
